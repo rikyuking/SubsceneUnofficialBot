@@ -9,7 +9,7 @@
 <div align="center">
 <img alt="Heroku" src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logoColor=white&logo=telegram"/>
   
- A Telegram bot to download Subtitle for movies downloader-Bot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+ A Telegram bot to download Subtitle for movies downloader-Bot/tree/master">
 
 ## Configuring Environments
 - `API_HASH` : Your Telegram APP HASH, get this from https://my.telegram.org
