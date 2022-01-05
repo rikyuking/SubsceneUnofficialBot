@@ -9,24 +9,24 @@
     "subtitle",
     "Unofficial"
   ],
-  "repository": "https://github.com/TerminalWarlord/Subtitle-Downloader-Bot",
-  "website": "https://github.com/TerminalWarlord/Subtitle-Downloader-Bot",
+  "repository": "https://github.com/birdfromhell/SubsceneUnofficialBot",
+  "website": "https://github.com/birdfromhell/SubsceneUnofficialBot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot Bot Token, get this value from @BotFather.",
-      "value": ""
+      "value": "5018416962:AAF1cw63MQClD0BptiIMsKUzuMgNwlu3xmc"
     },
     "API_KEY": {
       "description": "Your APP API KEY, get this from https://my.telegram.org",
-      "value": ""
+      "value": "18463708"
     },
     "API_HASH": {
       "description": "Your APP HASH, get this from https://my.telegram.org",
-     "value": ""
+     "value": "82f51905d258d44c2fef51f55e6c1a2c"
     },
     "CUTTLY_API": {
       "description": "Create an account on https://cutt.ly/register and generate an API KEY",
-      "value": ""
+      "value": "9fa5c9cd4452d794c454d24c45bc048d65c13"
     },
     "WORKERS": {
       "description": "Number of threads to use, this depends on usage.  4 is the recommended (and default) amount, but your experience may vary.",
