@@ -18,12 +18,12 @@ from dotenv import load_dotenv
 import zipfile
 
 load_dotenv()
-bot_token = os.environ.get('BOT_TOKEN')
-api = int(os.environ.get('API_KEY'))
-hash = os.environ.get('API_HASH')
+bot_token = os.environ.get('5018416962:AAF1cw63MQClD0BptiIMsKUzuMgNwlu3xmc')
+api = int(os.environ.get('18463708')
+hash = os.environ.get('82f51905d258d44c2fef51f55e6c1a2c')
 workers = int(os.environ.get('WORKERS'))
 app = Client("SubsceneUnofficial", bot_token=bot_token, api_id=api, api_hash=hash, workers=workers)
-cuttly = os.environ.get('CUTTLY_API')
+cuttly = os.environ.get('9fa5c9cd4452d794c454d24c45bc048d65c13')
 
 timestarted = timedelta(seconds=int(time.time()))
 
