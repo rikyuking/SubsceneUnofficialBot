@@ -10,14 +10,7 @@
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-purple?&style=for-the-badge&logoColor=white&logo=heroku"/>
 <img alt="Heroku" src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logoColor=white&logo=telegram"/>
   
- A Telegram bot to download Subtitle for movies and tv shows.
-</div>
-
-
-
-### Host on Heroku
-
-<p><a href="https://heroku.com/deploy?template=https://github.com/TerminalWarlord/Subtitle-Downloader-Bot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+ A Telegram bot to download Subtitle for movies downloader-Bot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 ## Configuring Environments
 - `API_HASH` : Your Telegram APP HASH, get this from https://my.telegram.org
@@ -38,6 +31,5 @@
 
 ---
 ### Star the Repo if you find it useful :heart:
-### © [JayBee](https://t.me/JayBeeBots)
 #### All Rights Reserved
 ---
